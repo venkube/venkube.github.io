@@ -6,9 +6,7 @@ nav_order: 4
 
 ---
 
-👉 [View All Articles](https://medium.com/@venkube)
-
-I write about:
+## I write about:
 
 - Kubernetes architecture
 - AWS best practices
@@ -21,7 +19,30 @@ I write about:
   Loading posts...
 </div>
 
+<div style="text-align:center; margin-top:40px;">
+  <a href="https://medium.com/@venkube" target="_blank" class="medium-button">
+    View All Articles →
+  </a>
+</div>
+
+
 <style>
+.medium-button {
+  display: inline-block;
+  padding: 12px 28px;
+  background: #111;
+  color: #fff;
+  border-radius: 30px;
+  text-decoration: none;
+  font-weight: 600;
+  transition: all 0.2s ease;
+}
+
+.medium-button:hover {
+  background: #000;
+  transform: translateY(-2px);
+}
+
 .posts-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
