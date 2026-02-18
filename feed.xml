@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Venu Madhav</title>
+    <link>https://venkube.github.io/</link>
+    <description>Infrastructure • Reliability • Distributed Systems</description>
+    <item>
+      <title>Medium RSS Feed</title>
+      <link>https://medium.com/feed/@venkube</link>
+      <description>Subscribe to my Medium posts via RSS.</description>
+    </item>
+  </channel>
+</rss>
