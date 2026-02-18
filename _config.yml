@@ -15,7 +15,10 @@ aux_links_new_tab: true
 
 color_scheme: dark
 
-logo: "/assets/images/screen_saver.jpeg"
+search_enabled: false
+heading_anchors: false
+
+logo: "/assets/images/caricature_venu.png"
 
 permalink: pretty
 

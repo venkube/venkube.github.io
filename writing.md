@@ -1,14 +1,12 @@
 ---
 layout: default
 title: Writing
-nav_order: 3
+nav_order: 4
 ---
 
 ---
 
-You can find my technical writing on Medium:
-
-👉 https://medium.com/@venkube
+👉 [Read my articles on Medium](https://medium.com/@venkube)
 
 I write about:
 

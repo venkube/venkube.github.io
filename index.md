@@ -6,9 +6,12 @@ nav_order: 1
 
 # Venu Madhav
 
-Infrastructure • Reliability • Distributed Systems
+<img src="/assets/images/profile.png" 
+     style="width:160px; border-radius:50%; margin-bottom:20px;">
 
-I design resilient cloud systems and write about production-grade infrastructure patterns.
+Infrastructure Architect • Reliability Engineer • Cloud Native Systems
+
+I build resilient distributed systems and write about production-grade infrastructure patterns, automation, and reliability engineering.
 
 ---
 
