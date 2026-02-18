@@ -1,26 +1,26 @@
 title: Venu Madhav Palugula
 description: Infrastructure • Reliability • Distributed Systems
-remote_theme: just-the-docs/just-the-docs
+remote_theme: mmistakes/minimal-mistakes@4.24.0
+name: Venu Madhav Palugula
+url: https://venkube.github.io/
+logo: "/assets/images/screen_saver.jpeg"
 
-# Aux links for the upper right navigation
-aux_links:
-  "GitHub":
-    - "https://github.com/venkube"
-  "LinkedIn":
-    - "https://linkedin.com/in/palugulavenumadhav"
-  "Medium":
-    - "https://medium.com/@venkube"
+minimal_mistakes_skin: "default"
 
-aux_links_new_tab: true
-
-color_scheme: dark
+navigation:
+  main:
+    - title: "About"
+      url: /about/
+    - title: "Projects"
+      url: /projects/
+    - title: "Writing"
+      url: /writing/
 
 logo: "/assets/images/screen_saver.jpeg"
 
-permalink: pretty
-
 plugins:
   - jekyll-remote-theme
+  - jekyll-feed
 
 header_pages:
   - about.md
@@ -28,5 +28,19 @@ header_pages:
   - writing.md
 
 author:
-  name: Venu Madhav Palugula
+  name: "Venu Madhav"
   email: palugulavenumadhav@gmail.com
+  avatar: "/assets/images/screen_saver.jpeg"
+  bio: "Infrastructure • Reliability • Distributed Systems"
+  location: "India"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/venkube"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/palugulavenumadhav"
+    - label: "Medium"
+      icon: "fab fa-medium"
+      url: "https://medium.com/@venkube"
+
