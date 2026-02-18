@@ -6,7 +6,7 @@ nav_order: 4
 
 ---
 
-👉 [Read my articles on Medium](https://medium.com/@venkube)
+👉 [View All Articles](https://medium.com/@venkube)
 
 I write about:
 
@@ -32,13 +32,14 @@ I write about:
 .post-card {
   border-radius: 12px;
   overflow: hidden;
-  background: #111;
+  background: #ffffff;
+  border: 1px solid #e5e5e5;
   transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
 .post-card:hover {
   transform: translateY(-5px);
-  box-shadow: 0 8px 24px rgba(0,0,0,0.3);
+  box-shadow: 0 8px 24px rgba(0,0,0,0.08);
 }
 
 .post-card img {
@@ -54,11 +55,12 @@ I write about:
 .post-content h3 {
   font-size: 1rem;
   margin: 0 0 8px 0;
+  color: #111;
 }
 
 .post-content p {
   font-size: 0.85rem;
-  color: #aaa;
+  color: #666;
   margin: 0;
 }
 
@@ -67,6 +69,7 @@ I write about:
   color: inherit;
 }
 </style>
+
 
 <script>
 document.addEventListener("DOMContentLoaded", function () {
@@ -110,3 +113,8 @@ document.addEventListener("DOMContentLoaded", function () {
 
 });
 </script>
+
+<a href="https://medium.com/@venkube" target="_blank">
+  View All Articles →
+</a>
+
