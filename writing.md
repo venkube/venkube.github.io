@@ -1,6 +1,9 @@
 ---
-layout: page
+layout: default
 title: Writing
+nav_order: 3
+---
+
 ---
 
 You can find my technical writing on Medium:
