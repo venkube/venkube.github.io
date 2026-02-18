@@ -1,5 +1,8 @@
 ---
-layout: home
+layout: default
+title: Home
+---
+
 ---
 
 # Venu Madhav
