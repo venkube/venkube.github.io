@@ -2,6 +2,10 @@ title: Venu Madhav Palugula
 description: Infrastructure • Reliability • Distributed Systems
 remote_theme: just-the-docs/just-the-docs
 
+logo: "/assets/images/profile.png"
+
+enable_copy_code_button: true
+
 # Aux links for the upper right navigation
 aux_links:
   "GitHub":
@@ -13,7 +17,7 @@ aux_links:
 
 aux_links_new_tab: true
 
-color_scheme: dark
+color_scheme: light
 
 search_enabled: false
 heading_anchors: false
