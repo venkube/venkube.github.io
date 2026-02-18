@@ -13,13 +13,29 @@ header_pages:
 
 author:
   name: Venu Madhav Palugula
-  email: palugulavenumadhav@example.com
+  email: palugulavenumadhav@gmail.com
 
-github_username: venkube
-linkedin_username: palugulavenumadhav
 
-minima:
-  social_links:
-    - { platform: github, user_url: "https://github.com/venkube" }
-    - { platform: linkedin, user_url: "https://linkedin.com/in/palugulavenumadhav" }
-    - { platform: medium, user_url: "https://medium.com/@venkube" }
+footer_content: >
+  <a href="https://github.com/venkube" target="_blank">GitHub</a> |
+  <a href="https://linkedin.com/in/palugulavenumadhav" target="_blank">LinkedIn</a> |
+  <a href="https://medium.com/@venkube" target="_blank">Medium</a>
+
+footer_content: >
+  <a href="https://github.com/venkube" target="_blank">
+    <i class="fab fa-github"></i> GitHub
+  </a> |
+  <a href="https://linkedin.com/in/palugulavenumadhav" target="_blank">
+    <i class="fab fa-linkedin"></i> LinkedIn
+  </a> |
+  <a href="https://medium.com/@venkube" target="_blank">
+    <i class="fab fa-medium"></i> Medium
+  </a>
+
+  aux_links:
+  "GitHub":
+    - "https://github.com/venkube"
+  "LinkedIn":
+    - "https://linkedin.com/in/palugulavenumadhav"
+  "Medium":
+    - "https://medium.com/@venkube"
