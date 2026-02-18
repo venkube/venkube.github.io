@@ -2,9 +2,21 @@ title: Venu Madhav Palugula
 description: Infrastructure • Reliability • Distributed Systems
 remote_theme: just-the-docs/just-the-docs
 
+# Aux links for the upper right navigation
+aux_links:
+  "GitHub":
+    - "https://github.com/venkube"
+  "LinkedIn":
+    - "https://linkedin.com/in/palugulavenumadhav"
+  "Medium":
+    - "https://medium.com/@venkube"
+
+aux_links_new_tab: true
+
+permalink: pretty
+
 plugins:
   - jekyll-remote-theme
-
 
 header_pages:
   - about.md
@@ -14,28 +26,3 @@ header_pages:
 author:
   name: Venu Madhav Palugula
   email: palugulavenumadhav@gmail.com
-
-
-footer_content: >
-  <a href="https://github.com/venkube" target="_blank">GitHub</a> |
-  <a href="https://linkedin.com/in/palugulavenumadhav" target="_blank">LinkedIn</a> |
-  <a href="https://medium.com/@venkube" target="_blank">Medium</a>
-
-footer_content: >
-  <a href="https://github.com/venkube" target="_blank">
-    <i class="fab fa-github"></i> GitHub
-  </a> |
-  <a href="https://linkedin.com/in/palugulavenumadhav" target="_blank">
-    <i class="fab fa-linkedin"></i> LinkedIn
-  </a> |
-  <a href="https://medium.com/@venkube" target="_blank">
-    <i class="fab fa-medium"></i> Medium
-  </a>
-
-  aux_links:
-  "GitHub":
-    - "https://github.com/venkube"
-  "LinkedIn":
-    - "https://linkedin.com/in/palugulavenumadhav"
-  "Medium":
-    - "https://medium.com/@venkube"
