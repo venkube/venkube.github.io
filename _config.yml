@@ -1,8 +1,25 @@
 title: Venu Madhav Palugula
 description: Infrastructure • Reliability • Distributed Systems
-theme: minima
+remote_theme: just-the-docs/just-the-docs
+
+plugins:
+  - jekyll-remote-theme
+
 
 header_pages:
   - about.md
   - projects.md
   - writing.md
+
+author:
+  name: Venu Madhav Palugula
+  email: palugulavenumadhav@example.com
+
+github_username: venkube
+linkedin_username: palugulavenumadhav
+
+minima:
+  social_links:
+    - { platform: github, user_url: "https://github.com/venkube" }
+    - { platform: linkedin, user_url: "https://linkedin.com/in/palugulavenumadhav" }
+    - { platform: medium, user_url: "https://medium.com/@venkube" }
