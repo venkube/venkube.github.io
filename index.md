@@ -2,18 +2,38 @@
 layout: home
 ---
 
-# Venu Madhav Palugula
+# Venu Madhav
 
-Infrastructure • Reliability • Distributed Systems  
+**Infrastructure • Reliability • Distributed Systems**
 
-Welcome. I design reliable cloud systems and break down complex infrastructure concepts for engineers.
+I design reliable cloud systems and break down complex infrastructure patterns for engineers.
 
-## Selected Writing
+---
 
-- [Your Medium Article](https://medium.com/@venkube)
+## 🔥 Focus Areas
 
-## Projects
+- Kubernetes & Cloud Native Systems  
+- AWS Infrastructure Automation  
+- Reliability Engineering  
+- Distributed Systems Design  
 
-- Kubernetes Cron Monitor
-- Certificate Expiry Monitor
-- SmartFox Infra Deployment
+---
+
+## 🧠 Selected Writing
+
+- [Your Best Medium Article](https://medium.com/@venkube)
+- [Another Strong Article](https://medium.com/@venkube)
+- [One More Deep Dive](https://medium.com/@venkube)
+
+---
+
+## 🛠 Projects
+
+### Kubernetes Cron Monitor
+Automation for monitoring cluster workloads.
+
+### Certificate Expiry Monitoring Tool
+Automated SSL/JKS expiry validation.
+
+### SmartFox on Elastic Beanstalk
+Production-grade infra deployment with Hazelcast.
