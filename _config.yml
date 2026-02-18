@@ -1,3 +1,8 @@
 title: Venu Madhav Palugula
 description: Infrastructure • Reliability • Distributed Systems
 theme: minima
+
+header_pages:
+  - about.md
+  - projects.md
+  - writing.md
