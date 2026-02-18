@@ -24,21 +24,10 @@ I build resilient distributed systems and write about production-grade infrastru
 
 ---
 
-## Selected Writing
-
-- [Article Title 1](https://medium.com/@venkube/...)
-- [Article Title 2](https://medium.com/@venkube/...)
-- [Article Title 3](https://medium.com/@venkube/...)
-
----
-
-## Projects
-
-### Kubernetes Cron Monitor  
-Automated workload health checks for EKS clusters.
-
-### Certificate Expiry Monitoring Tool  
-Automated SSL & JKS expiry validation.
-
-### SmartFox Infrastructure Setup  
-Production-grade AWS deployment with clustering.
+## Certifications
+- CKA: Certified Kubernetes Administrator
+- CKS: Certified Kubernetes Security Specialist
+- AWS Knowledge: Amazon EKS - Training Badge
+- AWS Knowledge: Architecting
+- AWS Knowledge: Object Storage - Training Badge
+- Kubernetes Level 5: Innovating - Issued by O'Reilly Media

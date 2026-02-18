@@ -134,8 +134,3 @@ document.addEventListener("DOMContentLoaded", function () {
 
 });
 </script>
-
-<a href="https://medium.com/@venkube" target="_blank">
-  View All Articles →
-</a>
-
