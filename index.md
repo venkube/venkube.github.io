@@ -1,44 +1,41 @@
 ---
-layout: home
-author_profile: true
----
-
----
-
+layout: default
+title: Home
+nav_order: 1
 ---
 
 # Venu Madhav
 
-**Infrastructure • Reliability • Distributed Systems**
+Infrastructure • Reliability • Distributed Systems
 
-I design reliable cloud systems and break down complex infrastructure patterns for engineers.
-
----
-
-## 🔥 Focus Areas
-
-- Kubernetes & Cloud Native Systems  
-- AWS Infrastructure Automation  
-- Reliability Engineering  
-- Distributed Systems Design  
+I design resilient cloud systems and write about production-grade infrastructure patterns.
 
 ---
 
-## 🧠 Selected Writing
+## Focus Areas
 
-- [Your Best Medium Article](https://medium.com/@venkube)
-- [Another Strong Article](https://medium.com/@venkube)
-- [One More Deep Dive](https://medium.com/@venkube)
+- Kubernetes platform engineering  
+- AWS automation & cloud architecture  
+- Reliability engineering  
+- Distributed systems design  
 
 ---
 
-## 🛠 Projects
+## Selected Writing
 
-### Kubernetes Cron Monitor
-Automation for monitoring cluster workloads.
+- [Article Title 1](https://medium.com/@venkube/...)
+- [Article Title 2](https://medium.com/@venkube/...)
+- [Article Title 3](https://medium.com/@venkube/...)
 
-### Certificate Expiry Monitoring Tool
-Automated SSL/JKS expiry validation.
+---
 
-### SmartFox on Elastic Beanstalk
-Production-grade infra deployment with Hazelcast.
+## Projects
+
+### Kubernetes Cron Monitor  
+Automated workload health checks for EKS clusters.
+
+### Certificate Expiry Monitoring Tool  
+Automated SSL & JKS expiry validation.
+
+### SmartFox Infrastructure Setup  
+Production-grade AWS deployment with clustering.
