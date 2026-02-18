@@ -1,6 +1,10 @@
 ---
-layout: page
+layout: default
 title: About
+nav_order: 1
+---
+
+
 ---
 
 I am a Site Reliability Engineer focused on building resilient cloud-native infrastructure.
