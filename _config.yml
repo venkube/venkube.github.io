@@ -1,6 +1,7 @@
 title: Venu Madhav Palugula
 description: Infrastructure • Reliability • Distributed Systems
 remote_theme: "mmistakes/minimal-mistakes@4.19.2"
+theme : "minimal-mistakes-jekyll"
 name: Venu Madhav Palugula
 url: https://venkube.github.io/
 logo: "/assets/images/screen_saver.jpeg"
@@ -21,6 +22,7 @@ logo: "/assets/images/screen_saver.jpeg"
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
+  - jekyll-include-cache
 
 header_pages:
   - about.md
